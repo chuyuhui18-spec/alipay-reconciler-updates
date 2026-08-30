@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <version>1.2.0</version>
-  <installer>AlipayErpReconcilerSetup-1.2.0.exe</installer>
-  <sha256>d07930e821b63e286a59e2192952e0844907f7d3546b49758945c7f9b8c0b4fc</sha256>
+  <version>1.2.1</version>
+  <installer>AlipayErpReconcilerSetup-1.2.1.exe</installer>
+  <sha256>c3ff2730c9ea6b0361359e194fece6c69c48db145421e44fce13cf15aa350631</sha256>
   <size>1096704</size>
   <notes>自动对账软件更新</notes>
-  <signature>SoTc58ahzknqOYoWdM2t1cw/Stt8tLi7L4xrw533OfyHQ6TAgXFpRWSSLBvjOma76aI18MzHZVWyAkDoGeyefhP3HGWHBAadUVwrhzAd2sHrLNB2ov59Ej8A8Du0xyGvF26do6pzwyQIWbi+/lnsOGA7QWbUPWS4ul2hklUYvuakXPgSNw7cHO7k6XnzfEXbk07Rux3tqXlyuwWF2sHbg+Isnu/XZBdq14il0Iutt5o9kOVcME6W5TB8onkY5VzU99qu5Agdd2Wo1ueiAx7mNzVx4EhrPXhh81vhBjGMQeC996t2asBb81HqLiMsmiqTjZg00uPoOwm6c0wvtpOWybF8momssGEsAnDSONphR8pxkZBD6NR7q/LluqgkxoCWzayw3nQpFqIQxUcJSLko0U9C8WUYYDSnhX5Vww+TGNxH9ewcEn0Puqi/52X8woLDixIqj2YGk8P5A67M2kZ53a4QaDhqRIq8czZDZawqxJpvVVwFrXkhmiP/QGCVRCsx</signature>
+  <signature>WP3wxC7EeSlmbgpJUhLilPzsQoJFp+8nz9FRNErTnPxP5LwlwHn/yxq6RV0t5TkCIZDyKbg+Z9wqDHUfuX6B8zyP2bDj2c5MgK1751aMw6pC6US8ueqGoyP8X30mGjq3xKas19jHrC93nXkg9YM1pXMQrqu64u88O8f3UatBQaR4U3Ef6sk5GkeFnIthQjghdTA/RC1g9+Py81Zo7sbVia+IxutIO3XuxWIOdb+7ZwD4OqX8MfT11ygpLdDhJ2OrSzs4cuzHRWan94BkixLVveI4jhbk/bu2Duw/pcoLJrDSVEjxWqCAXOcAksQA/QpdiPzEQP5mkr42Y/3DDipDYrPCbq2uIzzdpANzjBrI2tvUgNNoj6EK92BX+pUl5Sd1KZODb0Tr8rxFhu89qe8lHTH2MvhT9XRG6ry/HVc4yNvmjWH1Cp6sgg1dUihzpysN1zj2T5/MwqGHoSfl96b8yqoBsB/Ra+v1Q5jSdBCAXKDmyq73EevtxqNI07Kp7e4o</signature>
 </update>
